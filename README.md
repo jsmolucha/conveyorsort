@@ -10,6 +10,8 @@ Final project written in Python3.10 that incorporates timing to place and sort p
 | :white_check_mark:  | These numbers will directly correlate to the zip codes between 00000 and 99999              |
 | :white_check_mark:  | The GUI interface should have a Start/Stop button, reset button, counter display, indicators when the sorting arms fire (activate), and a list of the current queue of packages on the conveyor.                                                              |
 | :white_check_mark:  | Each box will be assigned a unique ID, the sort lane, and the number the counter has to match to the system counter to trigger the sorting arm.                                                                                                                |
-| :white_check_mark:  | Chat should differentiate every message and they should be easy to read                     |
+| :white_check_mark:  | The box will be removed from the list after it is sort                                      |
+| :white_check_mark:  | The entire process should be documented via writing to a log file                           |
+
   
 </center>
