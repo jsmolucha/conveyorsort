@@ -7,8 +7,9 @@ Final project written in Python3.10 that incorporates timing to place and sort p
 | Progress            | Requirement                                                                                 |
 | :------------------:| --------------------------------------------------------------------------------------------|
 | :rocket:            | You will generate a random number between 1 – 10 that corresponds to the sorting lanes      |
-| :white_check_mark:  | These numbers will directly correlate to the zip codes between 00000 and 99999.             |
-| :white_check_mark:  | The system will have 10 lanes and the lanes are 10ft apart and the conveyor moves a 1ft/sec |
+| :white_check_mark:  | These numbers will directly correlate to the zip codes between 00000 and 99999              |
+| :white_check_mark:  | The GUI interface should have a Start/Stop button, reset button, counter display, indicators when the sorting arms fire (activate),
+and a list of the current queue of packages on the conveyor.                                                        |
 | :warning:           | Alias for user should be different every time to preserve anonymity                         |
 | :white_check_mark:  | Chat should differentiate every message and they should be easy to read                     |
   
