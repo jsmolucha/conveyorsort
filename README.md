@@ -12,6 +12,9 @@ Final project written in Python3.10 that incorporates timing to place and sort p
 | :white_check_mark:  | Each box will be assigned a unique ID, the sort lane, and the number the counter has to match to the system counter to trigger the sorting arm.                                                                                                                |
 | :white_check_mark:  | The box will be removed from the list after it is sort                                      |
 | :white_check_mark:  | The entire process should be documented via writing to a log file                           |
+| :white_check_mark:  | The stop button should stop the conveyor, but leave all the information intact. That is, it works like a pause button.                            |
+
 
   
 </center>
+
